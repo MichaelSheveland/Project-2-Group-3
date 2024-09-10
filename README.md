@@ -100,7 +100,7 @@ The number of bathrooms and lot size (acre_lot_scaled) are the dominant factors 
 
 As the number of bathrooms increase the price generally increases as well up to about 7.5 to 10 bathrooms
 
-![image](https://github.com/user-attachments/assets/7dfd3250-08af-433b-893f-06e34dedbdd0)
+![image](https://github.com/user-attachments/assets/f2cfd074-085d-4215-a76e-f71e1016e529)
 
 **Investment Model Features Correlation Analysis**
 
@@ -113,9 +113,7 @@ Colors: Red = positive correlation, Blue = negative correlation (not present)
 Intensity indicates correlation strength
 The heatmap reveals how different property characteristics interact, with size-related features showing the strongest correlations.
 
-
-![image](https://github.com/user-attachments/assets/581ae214-da60-43dc-b450-aed7e3cbdb74)
-
+![image](https://github.com/user-attachments/assets/c1b8436f-7bc0-442c-9a9f-720b0d30a457)
 
 **Top 10 Homes Based on Weighted Features**
 
@@ -126,9 +124,9 @@ Investment scores range from 49.22 to 99.00
 Wide variety in property characteristics and prices
 Top-scoring property doesn't necessarily have the highest price or largest size
 
-![image](https://github.com/user-attachments/assets/87f1021f-05e0-447c-ad92-e533ef57e11a)
+![image](https://github.com/user-attachments/assets/4373439e-a39b-4b0c-adce-d8925985c28d)
 
-# Technologies/Frameworks Used
+#Technologies/Frameworks Used
 
 **Language**
 
