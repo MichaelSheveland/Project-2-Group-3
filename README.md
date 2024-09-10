@@ -1,5 +1,5 @@
 # Project Title
- Texas Real Estate predict house prices based on various real estate features using Machine Learning
+ Texas Real Estate Predict house prices based on various real estate features using Machine Learning
 
 # Project Description
 This project aims to develop a machine learning model to predict house prices based on various real estate features. The dataset contains essential information about houses, such as the number of bedrooms and bathrooms, lot size (in acres), house size (in square feet), and geographic location (city, state, and zip code). Additionally, key variables include the previous sale date, the house's age since the last sale, and the average house value in the corresponding zip code area. This project will provide valuable insights into real estate pricing, enabling stakeholders to make informed, data-driven decisions based on housing trends across different geographical regions.
