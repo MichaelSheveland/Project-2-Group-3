@@ -25,24 +25,35 @@ USA Real Estate Dataset features real estate listing across the United States, c
 In the data exploration phase, we thoroughly examined the dataset to understand its structure, variable types, and key statistics. We utilized visualizations like histograms and scatter plots to identify patterns, relationships, and outliers in the data.
 For data cleaning, we addressed missing values, removed duplicates, and ensured correct data types for each column. We also dropped the columns we don’t need for data analysis. The cleaned dataset was then validated and prepared for further analysis or modeling.
 
-**Data Transformatio**
+**Data Transformation**
 
 Feature Engineering:
 
 1.  Create a new features that could capture important relationships: 
-We calculate the age of the house since it was last sold
-Calculate average house value by zip code and round to integer
-Calculate average price per square foot and round to integer
-Calculate average price per square foot by zip code and round to integer
-Create a new column 'zip_code_prefix' for the first three characters of 'zip_code'
+
+* We calculate the age of the house since it was last sold
+
+* Calculate average house value by zip code and round to integer
+
+* Calculate average price per square foot and round to integer
+
+* Calculate average price per square foot by zip code and round to integer
+
+* Create a new column 'zip_code_prefix' for the first three characters of 'zip_code'
 
 2. Removed and convert rows and datas
-Remove rows where 'house_size' or 'price' is zero or NaN
-Remove the specified columns from the DataFrame
-Convert 'bed' and 'bath' to string, replacing NaN with '0'
-Convert 'price' and 'house_size' to integers
-Replace 'acre_lot' and 'house_age_since_sold' NaN with '0'
-Convert 'zip_code' to string, replacing NaN with '00000'
+
+* Remove rows where 'house_size' or 'price' is zero or NaN
+
+* Remove the specified columns from the DataFrame
+
+* Convert 'bed' and 'bath' to string, replacing NaN with '0'
+
+* Convert 'price' and 'house_size' to integers
+
+* Replace 'acre_lot' and 'house_age_since_sold' NaN with '0'
+
+* Convert 'zip_code' to string, replacing NaN with '00000'
 
 ![image](https://github.com/user-attachments/assets/af4485cd-8107-4c73-a672-9222a74cb9e8)
 
